@@ -46,3 +46,17 @@ Further verification with the relevant departments is recommended before making 
 
 ## Data Disclaimer
 This project uses fictional employee data created for learning and portfolio demonstration purposes.
+
+## Project Screenshots
+
+### Management Summary Dashboard
+![Management Summary](screenshots/management-summary.PNG)
+
+### Source A Pivot Table
+![Source A Pivot Table](screenshots/pivot-source-a.PNG)
+
+### Source B Pivot Table
+![Source B Pivot Table](screenshots/pivot-source-b.PNG)
+
+### Discrepancy Report
+![Discrepancy Report](screenshots/discrepancy-report.PNG)
